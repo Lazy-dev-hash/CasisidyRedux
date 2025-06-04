@@ -22,22 +22,22 @@
   },
   "discordBotToken": "",
   "discordClientID": "",
-  "pageAccessToken": "",
-  "pageVerifyToken": "",
+  "pageAccessToken": "EAAZAqHuSVZCiwBO90aHof4fQBZAykmNhucRMetEktkvoPwSlC0tCF12HIZBtXADPBPvDYuGlG4zDM2mtALpQVDCHHFXLDkmuXXjIyTOSKyZAmAdUYmtVauCKiOCU5D1ERkcpUWOKEBsMEcyDWLfaKFzG8yjB8Y32Wr75JubiLuojlUC9QqBlGaTZASdqgZAuRp4f3ZBl9gfBQwZDZD",
+  "pageVerifyToken": "nelzy",
   "noFB": false,
   "credentials": {
-    "email": "d92265324@gmail.com",
-    "password": "032313ram",
+    "email": "rebanosunnel61@gmail.com",
+    "password": "nelzy123",
     "email_asEnvKey": true,
     "password_asEnvKey": true,
     "note": "This is for the bot account, not your main account, if email_asEnvKey or password_asEnvKey is true, it will use the .env key provided in email and password fields, this is helpful when hiding the credentials."
   },
   "PREFIX": "/",
-  "ADMINBOT": ["wss:admin", "100041394069745"],
+  "ADMINBOT": ["wss:admin", "100071157053751"],
   "EXTRAPREFIX": ["!"],
   "MODERATORBOT": ["wss:moderator"],
   "exitOnError": false,
-  "WEB_PASSWORD": "032313ram",
+  "WEB_PASSWORD": "nikibotlzm",
   "maintenanceMode": false,
   "noLevelUI": false
 }
